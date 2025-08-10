@@ -6,3 +6,4 @@ class NoteForm(forms.ModelForm):
         model  =Notes
         fields =['topic','ID','message'] 
 
+
